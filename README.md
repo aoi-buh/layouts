@@ -8,7 +8,7 @@ f u d k , . h w i v
 
 A keyboard layout that's *somewhat* optimized for vim motions.
 
-Only works in normal and visual mode.
+*Only works in normal and visual mode.*
 
 Features:
 - Similar functions are placed on the same column.
