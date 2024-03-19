@@ -19,7 +19,7 @@ Features:
 - The "KJ" and "HL" groups can also be swapped as well but at the sacrifice of cl.
 
 ```
-g b l d v  q r u o j
+g b l d f  q r u o j
 c s t h y  x n i a e
-w f m p k  z ; , . /
+w v m p k  z ; , . /
 ```
