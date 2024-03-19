@@ -1,9 +1,9 @@
 # Vim
 
 ```
-t m r g ' ; p b a y
-f u d k , . h w i v
-: z x j n s l e o c
+t m r g '  ; p b a y
+f u d k ,  . h w i v
+: z x j n  s l e o c
 ```
 
 A keyboard layout that's *somewhat* optimized for vim motions.
@@ -17,3 +17,9 @@ Features:
 - There are some inroll optimizations specifically for motions such as "viw", "yap" and "cl".
 - The "EW", "TF" and "AI" pairs can be swapped for a *slightly* better insert mode experience. (though there's no point in doing that)
 - The "KJ" and "HL" groups can also be swapped as well but at the sacrifice of cl.
+
+```
+g b l d v  q r u o j
+c s t h y  x n i a e
+w f m p k  z ; , . /
+```
