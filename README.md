@@ -12,7 +12,7 @@ A keyboard layout that's *somewhat* optimized for vim motions.
 
 Features:
 - Q is removed because the world outside vim is ugly.
-  ![alt text](https://github.com/aoi-buh/layouts/blob/main/no%20macros.jpg "that's me fr")
+- ![alt text](https://github.com/aoi-buh/layouts/blob/main/no%20macros.jpg "that's me fr")
 - Similar functions are placed on the same column.
 - There are some inroll optimizations specifically for motions such as "viw", "yap" and "cl".
 - The "EW", "TF" and "AI" pairs can be swapped for a *slightly* better insert mode experience. (though there's no point in doing that)
