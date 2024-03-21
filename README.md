@@ -17,9 +17,3 @@ Features:
 - There are some inroll optimizations specifically for motions such as "viw", "yap" and "cl".
 - The "EW", "TF" and "AI" pairs can be swapped for a *slightly* better insert mode experience. (though there's no point in doing that)
 - The "KJ" and "HL" groups can also be swapped as well but at the sacrifice of cl.
-
-```
-g b l d f  q r u o j
-c s t h y  x n i a e
-w v m p k  z ; , . /
-```
